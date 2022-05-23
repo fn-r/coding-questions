@@ -12,10 +12,16 @@
 A repository containing my completed attempt to coding challenges from various coding practice website such as [codewars](https://www.codewars.com/). Current codewars ranking is 5 kyu and has completed over 200+ challenges.
 
 ## Technology Stack
-![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
-![PYTHON BADGE](https://img.shields.io/static/v1?label=|&message=Python&color=285f65&style=plastic&logo=python) 
+![JAVASCRIPT BADGE](https://custom-icon-badges.herokuapp.com/badge/-javascript-A5FFCE?style=for-the-badge&logo=javascript&logoColor=A5FFCE&labelColor=000000)
+![PYTHON BADGE](https://custom-icon-badges.herokuapp.com/badge/-python-A5FFCE?style=for-the-badge&logo=python&logoColor=A5FFCE&labelColor=000000) 
 
 ## Codewars
+<p align="center">
+  <a target="_blank" href="https://www.codewars.com/users/fn-r">
+      <img src="https://www.codewars.com/users/fn-r/badges/large" alt="Codewars Profile Badge"/>
+  </a>
+</p>
+
 <a target="_blank" href="https://www.codewars.com/users/fn-r">
     <img src="https://github.com/fn-r/portfolio/blob/main/images/profile/codewars.jpg" width="100%" alt="Codewars Profile"/>
 </a>
