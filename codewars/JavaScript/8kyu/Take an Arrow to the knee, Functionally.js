@@ -1,0 +1,1 @@
+const ArrowFunc = arr => arr.map(code => String.fromCharCode(code)).join('')
